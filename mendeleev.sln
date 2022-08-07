@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mendeleev", "mendeleev\mendeleev.csproj", "{F55CCA98-E202-4698-91FD-E3C8DFCB11C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55CCA98-E202-4698-91FD-E3C8DFCB11C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55CCA98-E202-4698-91FD-E3C8DFCB11C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55CCA98-E202-4698-91FD-E3C8DFCB11C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55CCA98-E202-4698-91FD-E3C8DFCB11C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D20C4F2-6A92-4C2B-B546-F76B8562339C}
+	EndGlobalSection
+EndGlobal

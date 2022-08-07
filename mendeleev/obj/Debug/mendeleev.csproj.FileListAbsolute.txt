@@ -1,0 +1,17 @@
+C:\Users\peces\source\repos\mendeleev\mendeleev\bin\Debug\mendeleev.exe.config
+C:\Users\peces\source\repos\mendeleev\mendeleev\bin\Debug\mendeleev.exe
+C:\Users\peces\source\repos\mendeleev\mendeleev\bin\Debug\mendeleev.pdb
+C:\Users\peces\source\repos\mendeleev\mendeleev\bin\Debug\Interop.WMPLib.dll
+C:\Users\peces\source\repos\mendeleev\mendeleev\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\peces\source\repos\mendeleev\mendeleev\obj\Debug\mendeleev.csproj.AssemblyReference.cache
+C:\Users\peces\source\repos\mendeleev\mendeleev\obj\Debug\Interop.WMPLib.dll
+C:\Users\peces\source\repos\mendeleev\mendeleev\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\peces\source\repos\mendeleev\mendeleev\obj\Debug\mendeleev.csproj.ResolveComReference.cache
+C:\Users\peces\source\repos\mendeleev\mendeleev\obj\Debug\mendeleev.authorization.resources
+C:\Users\peces\source\repos\mendeleev\mendeleev\obj\Debug\mendeleev.main.resources
+C:\Users\peces\source\repos\mendeleev\mendeleev\obj\Debug\mendeleev.Properties.Resources.resources
+C:\Users\peces\source\repos\mendeleev\mendeleev\obj\Debug\mendeleev.tablica.resources
+C:\Users\peces\source\repos\mendeleev\mendeleev\obj\Debug\mendeleev.csproj.GenerateResource.cache
+C:\Users\peces\source\repos\mendeleev\mendeleev\obj\Debug\mendeleev.csproj.CoreCompileInputs.cache
+C:\Users\peces\source\repos\mendeleev\mendeleev\obj\Debug\mendeleev.exe
+C:\Users\peces\source\repos\mendeleev\mendeleev\obj\Debug\mendeleev.pdb
